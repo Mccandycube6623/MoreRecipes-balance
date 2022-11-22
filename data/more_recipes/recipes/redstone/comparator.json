@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"minecraft:repeater"
+        },
+        {
+            "item":"minecraft:stick"
+        },
+        {
+            "item":"minecraft:quartz"
+        }
+    ],
+    "result": {
+        "item": "minecraft:comparator",
+        "count": 1
+    }
+}
