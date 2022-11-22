@@ -1,0 +1,9 @@
+{
+  "group": "amethyst_block",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "result": "minecraft:amethyst_cluster"
+}

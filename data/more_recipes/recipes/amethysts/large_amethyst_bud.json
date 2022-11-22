@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:large_amethyst_bud"
+  },
+  "addition": {
+    "item": "minecraft:large_amethyst_bud"
+  },
+  "result": {
+    "item": "minecraft:amethyst_cluster"
+  }
+}

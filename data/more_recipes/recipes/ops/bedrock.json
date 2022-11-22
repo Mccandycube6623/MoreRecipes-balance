@@ -1,0 +1,24 @@
+{
+  "group": "bedrock",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "141",
+    "010"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:netherite_block"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 4
+  }
+}

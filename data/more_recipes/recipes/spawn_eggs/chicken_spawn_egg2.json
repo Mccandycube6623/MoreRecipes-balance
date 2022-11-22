@@ -1,0 +1,21 @@
+{
+  "group": "chicken_spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "040",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ghast_tear"
+    },
+    "4": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "item": "minecraft:chicken_spawn_egg",
+    "count": 1
+  }
+}

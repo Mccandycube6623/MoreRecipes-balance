@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:small_amethyst_bud"
+  },
+  "addition": {
+    "item": "minecraft:small_amethyst_bud"
+  },
+  "result": {
+    "item": "minecraft:medium_amethyst_bud"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "iron_horse_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "242",
+    "222"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_horse_armor",
+    "count": 1
+  }
+}

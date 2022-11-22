@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:blackstone"
+  },
+  "addition": {
+    "item": "minecraft:raw_gold"
+  },
+  "result": {
+    "item": "minecraft:gilded_blackstone"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "saddle",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "141",
+    "6 6"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "minecraft:saddle",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "suspicious_stew",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "tag": "more_recipes:suspicious_stew2"
+    },
+    {
+      "tag": "more_recipes:suspicious_stew3"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "result": {
+    "item": "minecraft:suspicious_stew",
+    "count": 1
+  }
+}

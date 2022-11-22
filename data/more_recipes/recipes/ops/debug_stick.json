@@ -1,0 +1,17 @@
+{
+  "group": "debug_stick",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 2",
+    "2 "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:debug_stick",
+    "count": 1
+  }
+}

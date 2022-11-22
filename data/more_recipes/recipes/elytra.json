@@ -1,0 +1,24 @@
+{
+  "group": "elytra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "040",
+    "0 0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "1": {
+      "item": "minecraft:load"
+    },
+    "4": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}

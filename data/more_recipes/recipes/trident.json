@@ -1,0 +1,24 @@
+{
+  "group": "trident",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 11",
+    " 41",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "4": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "6": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "budding_amethyst",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "040",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:small_amethyst_bud"
+    },
+    "4": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}

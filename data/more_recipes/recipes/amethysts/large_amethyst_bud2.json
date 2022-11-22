@@ -1,0 +1,9 @@
+{
+  "group": "large_amethyst_bud",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:large_amethyst_bud"
+  },
+  "result": "minecraft:medium_amethyst_bud"
+}

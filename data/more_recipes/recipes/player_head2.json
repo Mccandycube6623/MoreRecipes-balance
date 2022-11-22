@@ -1,0 +1,27 @@
+{
+  "group": "player_head",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "343",
+    "666"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_wool"
+    },
+    "3": {
+      "item": "minecraft:spider_eye"
+    },
+    "4": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "6": {
+      "item": "minecraft:beef"
+    }
+  },
+  "result": {
+    "item": "minecraft:player_head",
+    "count": 1
+  }
+}

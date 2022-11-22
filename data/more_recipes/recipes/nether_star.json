@@ -1,0 +1,24 @@
+{
+  "group": "nether_star",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "141",
+    "010"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1
+  }
+}

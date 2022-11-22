@@ -1,0 +1,16 @@
+{
+  "group": "newmap",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:filled_map"
+    },
+    {
+      "tag": "more_recipes:newmap2"
+    }
+  ],
+  "result": {
+    "item": "minecraft:map",
+    "count": 1
+  }
+}

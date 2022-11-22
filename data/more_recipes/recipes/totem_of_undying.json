@@ -1,0 +1,24 @@
+{
+  "group": "totem_of_undying",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "343",
+    " 1 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "minecraft:ender_eye"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

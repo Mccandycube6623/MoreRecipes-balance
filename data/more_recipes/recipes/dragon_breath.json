@@ -1,0 +1,16 @@
+{
+  "group": "dragon_breath",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dragon_breath",
+    "count": 2
+  }
+}

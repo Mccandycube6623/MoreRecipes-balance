@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brain_coral"
+        },
+        {
+            "item": "minecraft:brain_coral"
+        },
+        {
+            "item": "minecraft:dried_kelp_block"
+        },
+        {
+            "item": "minecraft:brain_coral"
+        },
+        {
+            "item": "minecraft:brain_coral"
+        }
+    ],
+    "result": {
+        "item": "minecraft:brain_coral_block",
+        "count": 4
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "enchantedgoldenapple",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "040",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:golden_apple"
+    },
+    "4": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

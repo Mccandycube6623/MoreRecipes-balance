@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:golden_apple"
+  },
+  "addition": {
+    "item": "minecraft:enchanted_book"
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple"
+  }
+}

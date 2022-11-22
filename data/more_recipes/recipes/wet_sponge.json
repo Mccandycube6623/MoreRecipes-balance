@@ -1,0 +1,18 @@
+{
+  "group": "wet_sponge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "HHH",
+    "HHH"
+  ],
+  "key": {
+    "H":{
+      "item": "minecraft:horn_coral_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:wet_sponge",
+    "count": 4
+  }
+}

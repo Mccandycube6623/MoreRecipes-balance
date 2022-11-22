@@ -1,0 +1,16 @@
+{
+  "group": "glow_ink_sac",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "tag": "more_recipes:glow"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glow_ink_sac",
+    "count": 1
+  }
+}

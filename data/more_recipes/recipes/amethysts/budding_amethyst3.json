@@ -1,0 +1,9 @@
+{
+  "group": "budding_amethyst",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:budding_amethyst"
+  },
+  "result": "minecraft:amethyst_block"
+}
