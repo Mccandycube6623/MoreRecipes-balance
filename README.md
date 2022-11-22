@@ -1,2 +1,3 @@
 # MoreRecipes-balance
-A mc datapack
+A Minecraft Datapack
+# It is modified from MoreRecipes CUX-LI
