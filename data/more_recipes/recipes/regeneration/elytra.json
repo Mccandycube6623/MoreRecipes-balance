@@ -2,14 +2,17 @@
 	"type": "crafting_shaped",
 	"pattern": [
 		"ABA",
-		"A#A",
+		"F#F",
 		"ACA"
 	],
 	"key": {
+		"F":{
+			"item": "minecraft:phantom_membrane"
+		},
 		"A":{
 			"item": "minecraft:leather"
 		},
-		"c":{
+		"C":{
 			"item": "minecraft:dragon_breath"
 		},
 		"B":{
