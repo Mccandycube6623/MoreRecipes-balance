@@ -2,23 +2,23 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:bubble_coral"
+            "item": "minecraft:horn_coral"
         },
         {
-            "item": "minecraft:bubble_coral"
+            "item": "minecraft:horn_coral"
         },
         {
             "item": "minecraft:dried_kelp_block"
         },
         {
-            "item": "minecraft:bubble_coral"
+            "item": "minecraft:horn_coral"
         },
         {
-            "item": "minecraft:bubble_coral"
+            "item": "minecraft:horn_coral"
         }
     ],
     "result": {
-        "item": "minecraft:bubble_coral_block",
-        "count": 4
+        "item": "minecraft:horn_coral_block",
+        "count": 2
     }
 }
