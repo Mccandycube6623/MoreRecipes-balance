@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "D",
+        "F"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "F": {
+            "item": "minecraft:dried_kelp"
+        }
+    },
+    "result": {
+        "item": "minecraft:sea_pickle",
+        "count": 3
+    }
+}
